@@ -1,4 +1,4 @@
-# PeopleSoft ELM Wordpress Course Catalog Search Widget
+# PeopleSoft ELM Course Catalog Wordpress Search Widget
 A widget that displays a search box that returns matching courses 
 that are contained within The PSA Learning system
 
